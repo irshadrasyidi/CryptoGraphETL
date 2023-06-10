@@ -112,6 +112,8 @@ target/
 
 # Jupyter Notebook
 .ipynb_checkpoints
+*.ipynb
+!explore_coingecko_api.ipynb
 
 # pyenv
 .python-version
