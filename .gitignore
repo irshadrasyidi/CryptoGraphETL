@@ -8,6 +8,9 @@ data/**
 # keep all .gitkeep files
 !.gitkeep
 
+# VScode settings
+.vscode
+
 ##########################
 # Common files
 
